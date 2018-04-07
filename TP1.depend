@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1523136063 source:c:\users\usuario\desktop\tp_1_cascara\funciones.c
+
+1523134657 source:c:\users\usuario\desktop\tp_1_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1523133481 c:\users\usuario\desktop\tp_1_cascara\funciones.h
+
