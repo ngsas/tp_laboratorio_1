@@ -1,0 +1,73 @@
+# depslib dependency file v1.0
+1524347952 source:g:\usuarios\ezequiel\documents\tps\tsp\programacion-laboratorio\tp_laboratorio_2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Funciones.h"
+	"Personas.h"
+
+1524182016 g:\usuarios\ezequiel\documents\tps\tsp\programacion-laboratorio\tp_laboratorio_2\funciones.h
+
+1524347913 source:g:\usuarios\ezequiel\documents\tps\tsp\programacion-laboratorio\tp_laboratorio_2\personas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Personas.h"
+
+1524341864 g:\usuarios\ezequiel\documents\tps\tsp\programacion-laboratorio\tp_laboratorio_2\personas.h
+
+1525394392 source:i:\trabajos practicos\tp_laboratorio_2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"personas.h"
+	"utn.h"
+
+1525391288 i:\trabajos practicos\tp_laboratorio_2\funciones.h
+
+1525392214 i:\trabajos practicos\tp_laboratorio_2\personas.h
+
+1525394030 source:i:\trabajos practicos\tp_laboratorio_2\personas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"personas.h"
+	"utn.h"
+
+1525391550 source:i:\trabajos practicos\tp_laboratorio_2\funciones.c
+
+1524691840 i:\trabajos practicos\tp_laboratorio_2\utn.h
+
+1524691840 source:i:\trabajos practicos\tp_laboratorio_2\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"utn.h"
+
+1525394392 source:i:\trabajos practicos\tp2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"personas.h"
+	"utn.h"
+
+1525392214 i:\trabajos practicos\tp2\personas.h
+
+1524691840 i:\trabajos practicos\tp2\utn.h
+
+1525394436 source:i:\trabajos practicos\tp2\personas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"personas.h"
+	"utn.h"
+
+1524691840 source:i:\trabajos practicos\tp2\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"utn.h"
+
